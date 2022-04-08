@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fwzWJPb0fgZ5Vhfi2o/giphy.gif"/>
+  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/lucas-gentil-menegatti/">
