@@ -4,7 +4,6 @@
 
 # Hello! Welcome to my Github page!
 
-## :man_technologist: About me:
 * :books: I'm a Computers Engeneering Student
 * :computer: Also, I'm an aspiring programmer
 * :space_invader: And I really like to develop games!
