@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://vk-hog.itch.io/">
-    <img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSrC8H8qJCe_6pf6oRQ8BeOS-xV7O5t5aLlaHjCNGlCsxJk8ULg" alt="Itch.io Page" width="98" height="28"/>
+    <img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSrC8H8qJCe_6pf6oRQ8BeOS-xV7O5t5aLlaHjCNGlCsxJk8ULg" alt="Itch.io Page" width="80" height="28"/>
   </a>
   
   
