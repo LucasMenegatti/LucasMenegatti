@@ -18,9 +18,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
 </div>
 
-## My social networks
+## Social
 <div id="badges">
-  <a href="https://www.linkedin.com/in/lucas-gentil-menegatti/">
+  <a href="https://vk-hog.itch.io/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/lucas-gentil-menegatti/">
+    <img src="http://t1.gstatic.com/images?q=tbn:ANd9GcSrC8H8qJCe_6pf6oRQ8BeOS-xV7O5t5aLlaHjCNGlCsxJk8ULg" alt="Itch.io Page"/>
+  </a>
+  
+  
 </div>
