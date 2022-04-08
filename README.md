@@ -7,13 +7,20 @@
   </a><br>
    <img src="https://komarev.com/ghpvc/?username=LucasMenegatti&style=flat-square&color=blue" alt=""/>
 </div>
+<h1>
+  Hello World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 ---
-About me:
+
+:man_technologist: About me:
 - :books: I'm a Computers Engeneering Student
 - :computer: Also, I'm an aspiring programmer
 - :space_invader: And I really like to develop games!
 
 ---
+
 - :mailbox: You can reeach me via this e-mail: vkhogstudio@gmail.com
 
 ---
