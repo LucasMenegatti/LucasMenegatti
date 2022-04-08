@@ -7,7 +7,7 @@
 * :books: I'm a Computers Engeneering Student
 * :computer: Also, I'm an aspiring programmer
 * :space_invader: And I really like to develop games!
-* :mailbox: You can reeach me via this e-mail: vkhogstudio@gmail.com
+* :mailbox: You can reach me via this e-mail: vkhogstudio@gmail.com
 
 ## :hammer_and_wrench: Languages and Tools :
 <div align="center">
