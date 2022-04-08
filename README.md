@@ -1,9 +1,8 @@
 <div id="header">
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif"/ width="30%" height="30%"/><br>
-  <h1>Hello! Welcome to my Github page!</h1>
 </div>
 
----
+# Hello! Welcome to my Github page!
 
 ## :man_technologist: About me:
 * :books: I'm a Computers Engeneering Student
@@ -17,8 +16,6 @@
   </a>
 </div>
 
----
-
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
@@ -30,3 +27,4 @@
 <div id="badges">
 <br><br>
 <img src="https://komarev.com/ghpvc/?username=LucasMenegatti&style=flat-square&color=blue" alt=""/>
+</div>
