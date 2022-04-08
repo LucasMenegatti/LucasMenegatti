@@ -4,11 +4,11 @@
 
 # Hello! Welcome to my Github page!  
 
-* :books: I'm a Computers Engeneering Student
+* :books: I'm a Computers Engeneering Student\
 * :computer: Also, I'm an aspiring programmer
 * :space_invader: And I really like to develop games!
 * :mailbox: You can reach me via this e-mail: vkhogstudio@gmail.com  
-
+\
 ## :hammer_and_wrench: Languages and Tools
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
