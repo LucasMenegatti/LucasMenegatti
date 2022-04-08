@@ -1,6 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif"/ width="30%" height="30%"/>
-  # Hello! Welcome to my Github page!
+<div id="header">
+  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif"/ width="30%" height="30%"/><br>
+  <h1>Hello! Welcome to my Github page!</h1>
 </div>
 
 ---
