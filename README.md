@@ -1,11 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif"/>
 </div>
-:man_technologist: About me:
-- :books: I'm a Computers Engeneering Student
-- :computer: Also, I'm an aspiring programmer
-- :space_invader: And I really like to develop games!
-- :mailbox: You can reeach me via this e-mail: vkhogstudio@gmail.com
+---
+
+:man_technologist: About me:<br>
+-:books: I'm a Computers Engeneering Student
+-:computer: Also, I'm an aspiring programmer
+-:space_invader: And I really like to develop games!
+-:mailbox: You can reeach me via this e-mail: vkhogstudio@gmail.com
 
 <a href="https://www.linkedin.com/in/lucas-gentil-menegatti/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
