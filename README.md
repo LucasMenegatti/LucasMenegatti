@@ -2,12 +2,12 @@
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif"/ width="30%" height="30%"/>
 </div>
 
-# Hello! Welcome to my Github page!  
+# Hello! Welcome to my Github page!
 
-* :books: I'm a Computers Engeneering Student
-* :computer: Also, I'm an aspiring programmer
+* :books: I'm a computer engineering student
+* :computer: An aspiring programmer
 * :space_invader: And I really like to develop games!
-* :mailbox: You can reach me via this e-mail: vkhogstudio@gmail.com  
+* :mailbox: You can reach me via this e-mail: vkhogstudio@gmail.com
 
 ## :hammer_and_wrench: Languages and Tools
 <div align="center">
