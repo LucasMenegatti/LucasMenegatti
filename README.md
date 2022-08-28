@@ -7,7 +7,7 @@
 * :books: I'm a computer engineering student
 * :computer: An aspiring programmer
 * :space_invader: And I really like to develop games!
-* :mailbox: You can reach me via this e-mail: vkhogstudio@gmail.com
+* :mailbox: You can reach me via this e-mail: lucas@webzum.com.br
 
 ## :hammer_and_wrench: Languages and Tools
 <div align="center">
